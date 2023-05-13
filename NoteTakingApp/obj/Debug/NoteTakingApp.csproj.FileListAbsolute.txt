@@ -1,0 +1,10 @@
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\Namiq\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
